@@ -9,12 +9,6 @@
 
 ### dependencies
 
-**package.json への追加方法**
-```
-npm install --save [package]
-# npm i -S
-```
-
 ライブラリ **実行時** に必要なパッケージがインストールされる。
 
 ```json
@@ -32,15 +26,15 @@ npm install --save [package]
 - プラグインとして公開された `my-plugin` を開発者以外が `npm install my-plugin` する
 - 上記の package.json があるディレクトリで `npm install --production` する
 
-上記の結果： `hoge` のみがインストールされる。
-
-### devDependencies
+結果： `hoge` のみがインストールされる。
 
 **package.json への追加方法**
 ```
-npm install --save-dev [package]
-# npm i -D
+npm install --save [package]
+# npm i -S
 ```
+
+### devDependencies
 
 - テストツール
 - ビルドツール
@@ -62,7 +56,13 @@ npm install --save-dev [package]
 
 - 上記の package.json があるディレクトリで `npm install` する
 
-上記の結果： `hoge` および `piyo` がインストールされる。
+結果： `hoge` および `piyo` がインストールされる。
+
+**package.json への追加方法**
+```
+npm install --save-dev [package]
+# npm i -D
+```
 
 ## nuc の使い方
 
