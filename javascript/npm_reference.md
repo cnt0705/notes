@@ -72,8 +72,8 @@ npm install --save-dev [package]
 ncu
 ```
 
-アップデートが必要なパッケージについて package.json を更新する。
-更新後、`npm update` を実行してアップデートする。
+- アップデートが必要なパッケージについて package.json を更新する
+- 更新後、`npm update` を実行してアップデートする
 
 ```
 ncu -u
