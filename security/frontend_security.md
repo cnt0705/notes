@@ -172,7 +172,7 @@ POST http://example.jp/order
 ## 参考
 
 - [クロスサイトスクリプティング - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
-- [クロスサイトリクエストフォージェリ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%AA)
+- [クロスサイトリクエストフォージェリ - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%AA)
 - [JavaScriptセキュリティの基礎知識](http://gihyo.jp/dev/serial/01/javascript-security)
 - [［はまちちゃんのセキュリティ講座］ここがキミの脆弱なところ…！](http://gihyo.jp/dev/serial/01/hamachiya2)
 - [HTML5時代の「新しいセキュリティ・エチケット」](http://www.atmarkit.co.jp/ait/series/1319/)
