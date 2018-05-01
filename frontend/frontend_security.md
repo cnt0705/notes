@@ -1,4 +1,4 @@
-# Web アプリケーションのセキュリティ
+# フロントエンドのセキュリティ
 
 ## XSS (Cross Site Scripting)
 
