@@ -168,3 +168,15 @@ POST http://example.jp/order
 サーバ側で予測困難なトークンを生成し、クライアント側にページを返す際にそのトークンを含める。  
 クライアント側からは、入力値とあわせてトークンを含めたリクエストを送信する。  
 サーバ側で受け取ったトークンを検証することで、「正規のリクエストかどうか」を判断することができる。
+
+## 参考
+
+- [クロスサイトスクリプティング - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
+- [クロスサイトリクエストフォージェリ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%AA)
+- [JavaScriptセキュリティの基礎知識](http://gihyo.jp/dev/serial/01/javascript-security)
+- [［はまちちゃんのセキュリティ講座］ここがキミの脆弱なところ…！](http://gihyo.jp/dev/serial/01/hamachiya2)
+- [HTML5時代の「新しいセキュリティ・エチケット」](http://www.atmarkit.co.jp/ait/series/1319/)
+- [RESTFulなAPIとCSRFとその対策](http://watanabe-tsuyoshi.hatenablog.com/entry/2015/03/04/123649)
+- [オリジン間リソース共有 (CORS) - MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/HTTP_access_control)
+- [同一オリジンポリシー - MDN](https://developer.mozilla.org/ja/docs/Web/Security/Same-origin_policy)
+- [CORSヘッダの設定方法について](https://community.akamai.com/groups/akamai-japan/blog/2016/07/05/cors%E3%83%98%E3%83%83%E3%83%80%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
