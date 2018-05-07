@@ -180,3 +180,4 @@ POST http://example.jp/order
 - [オリジン間リソース共有 (CORS) - MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/HTTP_access_control)
 - [同一オリジンポリシー - MDN](https://developer.mozilla.org/ja/docs/Web/Security/Same-origin_policy)
 - [CORSヘッダの設定方法について](https://community.akamai.com/groups/akamai-japan/blog/2016/07/05/cors%E3%83%98%E3%83%83%E3%83%80%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+- [CORSまとめ](https://qiita.com/tomoyukilabs/items/81698edd5812ff6acb34)
