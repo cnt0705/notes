@@ -114,3 +114,4 @@ Bundler を通してインストールした Gem の場合は、実行コマン�
 - [rbenvは何をしているのか？](http://d.hatena.ne.jp/zariganitosh/20141101/what_does_rbenv)
 - [rbenv + ruby-build はどうやって動いているのか](http://takatoshiono.hatenablog.com/entry/2015/01/09/012040)
 - [頭が弱すぎてruby + rbenv + gem + bundle + (+rails)の仕組みが理解できない・・・](http://komaken.me/blog/2013/07/05/%E9%A0%AD%E3%81%8C%E5%BC%B1%E3%81%99%E3%81%8E%E3%81%A6ruby-rbenv-gem-bundle-rails%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%8C%E7%90%86%E8%A7%A3%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%83%BB/)
+- [[Sy] Railsの環境構築でグローバルのgemを汚さずにプロジェクト内にbundle install する手順](https://utano.jp/entry/2016/07/rails-bundle-install-gem-inner-project/)
